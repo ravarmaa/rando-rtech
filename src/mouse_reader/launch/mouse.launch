@@ -1,0 +1,5 @@
+<launch>
+<node name="mouse_reader" pkg="mouse_reader" type="mouse_reader" />
+<node name="rviz" pkg="rviz" type="rviz" args="-d $(find point_visualizer)/rviz_conf.rviz" />
+<node pkg="tf" type="static_transform_publisher" name="link1_broadcaster" args="1 0 0 0 0 0 1 world map 100" />
+</launch>
