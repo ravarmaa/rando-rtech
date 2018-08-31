@@ -56,7 +56,7 @@ Visualization Manager:
       History Length: 1
       Name: PointStamped
       Radius: 0.200000003
-      Topic: /info
+      Topic: /mouse
       Unreliable: false
       Value: true
   Enabled: true
@@ -84,7 +84,7 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 21.6319103
+      Distance: 25.6773987
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.0599999987
         Stereo Focal Distance: 1
@@ -99,10 +99,10 @@ Visualization Manager:
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.00999999978
-      Pitch: 0.785398006
+      Pitch: -1.56979632
       Target Frame: <Fixed Frame>
       Value: Orbit (rviz)
-      Yaw: 0.785398006
+      Yaw: 4.6685729
     Saved: ~
 Window Geometry:
   Displays:
