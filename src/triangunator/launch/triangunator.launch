@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="triangunator" pkg="triangunator" type="triangunator" respawn="false" output="screen">
+  </node>
+
+</launch>

@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/home/randalf/robotex"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ratio": "cpp",
+			"system_error": "cpp",
+			"type_traits": "cpp",
+			"*.inc": "cpp"
+		}
+	}
+}

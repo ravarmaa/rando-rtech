@@ -1,0 +1,14 @@
+ controller_list:
+  - name: sia5_controller
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: true
+    joints:
+      - joint_b
+      - joint_e
+      - joint_l
+      - joint_r
+      - joint_s
+      - joint_t
+      - joint_u
+
