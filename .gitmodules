@@ -1,0 +1,4 @@
+[submodule "src/motoman"]
+	path = src/motoman
+	url = https://github.com/ros-industrial/motoman.git
+	branch = kinetic-devel
