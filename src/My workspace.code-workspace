@@ -4,7 +4,7 @@
 			"path": "."
 		},
 		{
-			"path": "/home/randalf/robotex"
+			"path": "/home/randalf/droonituuled"
 		}
 	],
 	"settings": {
@@ -13,6 +13,7 @@
 			"system_error": "cpp",
 			"type_traits": "cpp",
 			"*.inc": "cpp"
-		}
+		},
+		"git.ignoreLimitWarning": true
 	}
 }
